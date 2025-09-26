@@ -6,7 +6,7 @@
 
 The **AstroMineX** was developed to serve as an advanced web platform for analyzing and recommending mining sites based on user preferences. The platform features interactive visualizations, insightful analyses, and personalized recommendations, making it a comprehensive tool for anyone interested in space mining.
 
-Developed by: **Vedant**
+Developed by: **Vedant , Sohaib , Shehzaan , Yogeshwar**
 
 ## 🧩 Features
 
@@ -90,4 +90,5 @@ Interact with the application by selecting features, adjusting parameters, and e
 - **GitHub**: For code management, version control, and collaboration.
 
 Review the insights and visualizations generated to inform your decision-making process regarding space mining opportunities.
+
 
